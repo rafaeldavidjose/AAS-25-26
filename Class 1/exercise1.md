@@ -32,12 +32,12 @@ world = [
 
 ## Objective is to Develop a Chase or Flee Heuristic
 
-### What I want you to do:
+### What I want to do:
 1. Choose 3 to 5 features for this heuristic
-2. Normalize each feature (how would you do that)
-3. Propose weights [0,1] → Explain your reasoning
-4. Write your formula and “test it” using different coordinates for the player and the agent
-Experiment with 3 or 4 different coordinate combinations
+2. Normalize each feature (how would I do that)
+3. Propose weights [0,1] → Explain the reasoning
+4. Write the formula and “test it” using different coordinates for the player and the agent
+Experimenting with 3 or 4 different coordinate combinations
 
 ### 1. Features
 1. `D_player` = Distance to Player - *Reward*
